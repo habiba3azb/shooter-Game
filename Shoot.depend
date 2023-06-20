@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1667564275 source:/home/omarsanad/Desktop/Orange/Shoot/main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<cstdlib>
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<sstream>
+	<iomanip>
+	<cmath>
+
